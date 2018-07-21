@@ -1,6 +1,6 @@
 <pre>
   LIP: 1
-  Title: LIP process, revised
+  Title: LIP process
   Author: Rene Pickhardt <rene@rene-pickhardt.de>
   Comments-Summary: No comments yet.
   Comments-URI: https://github.com/renepickhardt/lips/wiki/Comments:LIP-0001
